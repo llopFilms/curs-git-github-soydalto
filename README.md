@@ -1,2 +1,23 @@
 # Curs Git-Github SoyDalto
 - Pràctiques del curs de Git-Github de SoyDalto
+- Tmeari:
+  - Intro Git
+  - Commits
+  - Git restore
+  - Git checkout
+  - Git diff
+  - Branques
+  - Merge
+  - Conflictes de merge
+  - .gitigonre
+  - Git alias
+  - Git reflog
+  - Intro Github
+  - Git clone
+  - Git push
+  - Git pull
+  - Git fetch
+  - Forks
+  - Pull requests
+  - Issues
+  - Bones pràctiques
